@@ -6,7 +6,8 @@
 </script>
 
 <template>
-  <div class="bg-black min-h-[100vh] text-white">
+  <div class="bg-black min-h-[100vh] text-white ">
+  <div class="max-w-[1500px] mx-auto w-full">
     <header>
       <Header />
     </header>
@@ -17,6 +18,7 @@
     <footer>
       <FooterVue />
     </footer>
+  </div>
   </div>
 </template>
 
