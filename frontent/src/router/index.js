@@ -1,13 +1,13 @@
 import { createRouter, createWebHistory } from "vue-router";
 import HomeView from '../Views/HomeView.vue'
-import NoPage from '../Views/NoPage.vue'
-import Support from '../Views/SupportView.vue'
+import NoPage from '../Views/other/NoPage.vue'
+import Support from '../Views/other/SupportView.vue'
 import Plans from '../Views/PlansView.vue'
 import Partners from '../Views/PartnersView.vue'
 import Creators from '../Views/CreatorsView.vue'
-import Faq from '../Views/FaqView.vue'
-import Login from '../Views/LoginView.vue'
-import Reg from '../Views/RegView.vue'
+import Faq from '../Views/other/FaqView.vue'
+import Login from '../Views/authentication/LoginView.vue'
+import Reg from '../Views/authentication/RegView.vue'
 
 
 

@@ -4,6 +4,6 @@
 
 @layer components {
     .BtnStyle {
-        @apply border-gray-400 border-1 p-[10px] rounded-xl ;
+        @apply border-gray-400 border-1 p-[10px] rounded-xl  ;
     }
 }
